@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SMART MD
+
+    </string>
+    <string name="profil">Profil </string>
+    <string name="schedule_label"> Schedule For Tomorrow</string>
+    <string name="audit_label">Audit Store</string>
+    <string name="history_label">Transaksi History</string>
+    <string name="product_label">Product List</string>
+    <string name="store_label">Store List</string>
+
+    <string-array name="List">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="List_verify">
+        <item>Chief Of Sore</item>
+        <item>Assistant Chief Of Store</item>
+        <item>Crew Store</item>
+    </string-array>
+</resources>
